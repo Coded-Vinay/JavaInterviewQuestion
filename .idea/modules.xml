@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaInterviewQuestion.iml" filepath="$PROJECT_DIR$/.idea/JavaInterviewQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaRefreshers/JavaRefreshers.iml" filepath="$PROJECT_DIR$/JavaRefreshers/JavaRefreshers.iml" />
+    </modules>
+  </component>
+</project>
