@@ -1,0 +1,144 @@
+Arrays & Strings
+
+1. Find the maximum/minimum element in an array.
+
+
+2. Reverse an array (in-place).
+
+
+3. Check if an array contains duplicates.
+
+
+4. Find the missing number in an array from 1 to N.
+
+
+5. Find the first non-repeating character in a string.
+
+
+6. Rotate an array by K steps.
+
+
+7. Find the subarray with the maximum sum (Kadane’s Algorithm).
+
+
+8. Merge two sorted arrays.
+
+
+9. Check if two strings are anagrams.
+
+
+10. Implement a function to compress a string (count consecutive characters).
+
+
+
+
+---
+
+🔹 Lists & Linked Lists
+
+1. Reverse a linked list.
+
+
+2. Detect a cycle in a linked list (Floyd’s cycle detection).
+
+
+3. Find the middle node of a linked list.
+
+
+4. Merge two sorted linked lists.
+
+
+5. Remove Nth node from the end.
+
+
+6. Check if a linked list is a palindrome.
+
+
+7. Flatten a nested linked list.
+
+
+
+
+---
+
+🔹 HashMap / HashSet
+
+1. Find the first repeating element in an array.
+
+
+2. Count frequency of each element in an array.
+
+
+3. Two-sum problem (find pair with a given sum).
+
+
+4. Group anagrams from a list of words.
+
+
+5. Find the longest substring without repeating characters.
+
+
+6. Check if two arrays are equal (ignoring order).
+
+
+
+
+---
+
+🔹 Stack
+
+1. Implement a stack using arrays/linked list.
+
+
+2. Evaluate a postfix expression.
+
+
+3. Implement a min stack (get minimum in O(1)).
+
+
+4. Check for balanced parentheses in a string.
+
+
+5. Next Greater Element problem.
+
+
+
+
+---
+
+🔹 Queue / Deque / PriorityQueue
+
+1. Implement a queue using stacks.
+
+
+2. Implement a circular queue.
+
+
+3. Sliding window maximum (using deque).
+
+
+4. Implement an LRU Cache.
+
+
+5. Merge K sorted lists (using min-heap).
+
+
+
+
+---
+
+🔹 Tree & Graph (Collections + Data Structures)
+
+1. Level order traversal of a binary tree.
+
+
+2. Depth-first search (DFS) and breadth-first search (BFS).
+
+
+3. Check if a binary tree is balanced.
+
+
+4. Find lowest common ancestor (LCA).
+
+
+5. Detect cycle in a graph.
