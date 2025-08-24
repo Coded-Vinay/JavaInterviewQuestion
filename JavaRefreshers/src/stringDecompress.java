@@ -21,10 +21,11 @@ public class stringDecompress {
         System.out.println(CarrL);
         System.out.println(IarrL);
 
-        for ( int i = 0 ; i<=CarrL.size()-1 ; i++){
-         int rep = IarrL.get(i);
-         for(int j = 1 ; j<=rep ; j++){
-            System.out.print(CarrL.get(i));
-        }}
+        for (int i = 0; i <= CarrL.size() - 1; i++) {
+            int rep = IarrL.get(i);
+            for (int j = 1; j <= rep; j++) {
+                System.out.print(CarrL.get(i));
+            }
+        }
     }
 }
